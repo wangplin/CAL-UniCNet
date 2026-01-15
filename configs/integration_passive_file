@@ -1,0 +1,8 @@
+chiplet 0 router 7 chiplet 1 router 4 9
+chiplet 1 router 4 chiplet 0 router 7 9
+chiplet 0 router 13 chiplet 2 router 1 9
+chiplet 2 router 1 chiplet 0 router 13 9
+chiplet 1 router 14 chiplet 3 router 2 9
+chiplet 3 router 2 chiplet 1 router 14 9
+chiplet 2 router 11 chiplet 3 router 8 9
+chiplet 3 router 8 chiplet 2 router 11 9

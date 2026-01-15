@@ -1,0 +1,16 @@
+chiplet 0 router 1 interposer router 0 4
+chiplet 0 router 2 interposer router 1 4
+chiplet 0 router 13 interposer router 4
+chiplet 0 router 14 interposer router 5 4
+chiplet 1 router 1 interposer router 2 4
+chiplet 1 router 2 interposer router 3 4
+chiplet 1 router 13 interposer router 6 4
+chiplet 1 router 14 interposer router 7 4
+chiplet 2 router 1 interposer router 8 4
+chiplet 2 router 2 interposer router 9 4
+chiplet 2 router 13 interposer router 12 4
+chiplet 2 router 14 interposer router 13 4
+chiplet 3 router 1 interposer router 10 4
+chiplet 3 router 2 interposer router 11 4
+chiplet 3 router 13 interposer router 14 4
+chiplet 3 router 14 interposer router 15 4
