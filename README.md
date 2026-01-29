@@ -91,9 +91,9 @@ If you use UniCNet in your research, we would appreciate the following citation 
   journal={IEEE Computer Architecture Letters}, 
   title={UniCNet: Unified Cycle-Accurate Simulation for Composable Chiplet Network With Modular Design-Integration Workflow}, 
   year={2026},
-  volume={},
-  number={},
-  pages={1-4},
+  volume={25},
+  number={1},
+  pages={37-40},
   doi={10.1109/LCA.2026.3653809}}
 ```
 
